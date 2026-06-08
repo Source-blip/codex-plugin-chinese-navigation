@@ -1,0 +1,391 @@
+{
+  "generatedAt": "2026-06-08",
+  "stats": {
+    "total": 1547,
+    "installed": 14,
+    "installable": 28,
+    "apps": 1505,
+    "appUniqueIds": 1505,
+    "officialIcons": 1288,
+    "missingIcons": 259,
+    "chineseDescriptions": 1547,
+    "drafts": 4,
+    "duplicateNameEntries": 15
+  },
+  "checks": {
+    "itemTotalMatches": true,
+    "appCountMatches": true,
+    "appIdsComplete": true,
+    "pluginCountsCorrect": true,
+    "requiredFieldsComplete": true,
+    "chineseDescriptionsComplete": true,
+    "noReplacementCharacters": true,
+    "imageMimeValid": true,
+    "appIconsMappedByExactId": true,
+    "expectedSearchesWork": true,
+    "embeddedScriptParses": true
+  },
+  "searchTests": {
+    "做表格": 1,
+    "PPT": 1,
+    "控制电脑": 1,
+    "查邮件": 1,
+    "英伟达": 1,
+    "Notion": 4,
+    "不存在的测试关键词XYZ987": 0
+  },
+  "details": {
+    "missingIds": [],
+    "extraIds": [],
+    "duplicateIds": [],
+    "blankFields": [],
+    "noChineseDescription": [],
+    "replacementCharacters": 0,
+    "brokenDataImages": [],
+    "iconsWithoutMatchingFile": [],
+    "sharedOfficialIcons": [
+      [
+        "asdk_app_694b158c9f2c81918ef3e2eb8e3988ad",
+        "asdk_app_694c425bfd788191ad1cc96bc6dc6dc6"
+      ],
+      [
+        "asdk_app_6a1a374657a88191bc1e22f3e9862dc6",
+        "asdk_app_6a15c452ae04819187569784a47f7243"
+      ],
+      [
+        "asdk_app_69d0102fb7e88191a96ca4811f80327d",
+        "asdk_app_69d96db5dfb8819189c455c2ef8e871e"
+      ],
+      [
+        "asdk_app_6a023403678c81918aad1e4645687b07",
+        "asdk_app_6a0371c3b9b48191bea57437f57b7086"
+      ],
+      [
+        "connector_1ee51bd730c272434e1b17c46f8a2397",
+        "connector_37316be7febe4224b3d31465bae4dbd7"
+      ],
+      [
+        "asdk_app_694ec894206c8191a619d67d2c3935b8",
+        "asdk_app_694db56addec8191ac9c2ee5fe52c4ea"
+      ]
+    ],
+    "lowBackTranslationConfidence": [
+      {
+        "id": "asdk_app_6a02e1e7dbf0819191b4b5e6305b7f03",
+        "name": "ACE Money Transfer",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69a167c2a1048191bad1e0ccadf42599",
+        "name": "ADAC Mietwagen",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69b86982c9c0819181286ab3eefaa1f9",
+        "name": "AI Clarity Method",
+        "score": 0.16666666666666666
+      },
+      {
+        "id": "asdk_app_6944f7c806d0819195abf0177e5ff78a",
+        "name": "Ace Knowledge Graph",
+        "score": 0.16666666666666666
+      },
+      {
+        "id": "asdk_app_69721e17d9f08191a3375ee600d6a587",
+        "name": "Ausbildung.de",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_695e7c4731d4819185471e24b5d8a3f9",
+        "name": "Bed-and-Breakfast.it",
+        "score": 0.16666666666666666
+      },
+      {
+        "id": "asdk_app_698cf354d26081918bfe2e4171c53b66",
+        "name": "Botala by dyskute",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69c5423ff7148191bb3b03583d7ad6c5",
+        "name": "Buser",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69445d54f1688191a72dfaae7f6038af",
+        "name": "Cara",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_698efbb5815481918ecba1b1c9c7496e",
+        "name": "Carrefour",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69ef18c674308191a2f952431f91ea61",
+        "name": "Context7",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69de05ca1d1081919747877f6e282f30",
+        "name": "Cortenoi",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69af21349a5881918c973cc6bf477ec4",
+        "name": "Decolar",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_6a0809d7ba28819184457492936bd6dd",
+        "name": "Enum Value Normalizer",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_697b6a3d751c81918fbd1d7419eca9b2",
+        "name": "FilesAnywhere",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_698627f2a4208191a693e8c5d82959dc",
+        "name": "Fugle-Stock",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69fa1e60cc088191b94149c95d5e7cfd",
+        "name": "Gaanneesh Craft",
+        "score": 0.16666666666666666
+      },
+      {
+        "id": "asdk_app_6a01ab92a89881919b46e570b5fa48ac",
+        "name": "Hellowork",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_6a06ebd93b688191aab095f9511c9f28",
+        "name": "Isocarto",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_694a63a053f081918b9a3738bd3640c9",
+        "name": "Kleinanzeigen",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69a8373499d48191b79dbf6bd6c0cfaa",
+        "name": "Krónan",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69cb7e6ec5088191a9469aa6f75c9024",
+        "name": "LFmall",
+        "score": 0.1111111111111111
+      },
+      {
+        "id": "asdk_app_69dddf97687881918a9c89081aefe341",
+        "name": "LG전자 공식몰 LGE.COM (엘지이닷컴)",
+        "score": 0.1111111111111111
+      },
+      {
+        "id": "asdk_app_695256821cb4819198a87219d61351d2",
+        "name": "La Centrale",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69b16708fe4c81919e52e384a0733ccd",
+        "name": "Le Parisien",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69bad091a4048191b68d387f898c562c",
+        "name": "LeLynx.fr Énergie",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_6a1750c61e00819187aba1cd9b56ad57",
+        "name": "MRV",
+        "score": 0.16666666666666666
+      },
+      {
+        "id": "asdk_app_699618fc24308191bbec232d7a264d96",
+        "name": "Mando Armory",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_6a1f03a5003481919a9dc301fed29ac4",
+        "name": "Martini",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69f1b3f799cc81919bcbd985a83dff49",
+        "name": "Meilleurtaux",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69609ea9703c8191bceca42c51c445ce",
+        "name": "Nejo",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_698c54e054c08191b7980a9a1e126157",
+        "name": "OTOMOTO",
+        "score": 0.16666666666666666
+      },
+      {
+        "id": "asdk_app_69dd66aac05c8191889aa3a18250dee6",
+        "name": "Oi",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_698ffb7100b08191999fa03af09b1378",
+        "name": "OptionsCalc",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_6a0bd4fb26bc81919bc89a9e73abead0",
+        "name": "Portland Movers Ready",
+        "score": 0.16666666666666666
+      },
+      {
+        "id": "asdk_app_69fcae9e0fdc8191b7a161a2a3cfab1c",
+        "name": "QuizStage",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_6a01e4b30b548191ae05e049070a3fb2",
+        "name": "SaaSFlow",
+        "score": 0.16666666666666666
+      },
+      {
+        "id": "asdk_app_6a1435f6f314819185ffe3fd7ae1937b",
+        "name": "Sara Assicurazioni",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_6952b3a3f1e881918951582d59483c78",
+        "name": "Scite",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_6a01e9707b0c81918daa8496ea2f1308",
+        "name": "Seguro Match",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69e0d82405e081918f3c465092989877",
+        "name": "Sem Parar",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69d9202f4eb88191a71ac24f79c6a391",
+        "name": "Serasa",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69b144385fe481919993cbb4a104b393",
+        "name": "SignNow",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_696238e10be08191b61d9082de15d151",
+        "name": "SueldoNeto",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_6985e420a0c08191b0d2ef99895d2b53",
+        "name": "Taxdown",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69450cc7d19c8191adbbc72a3c291079",
+        "name": "TickerSage",
+        "score": 0.16666666666666666
+      },
+      {
+        "id": "asdk_app_6957ac6752d08191a381e7bd8cf1ddf1",
+        "name": "Toolzy",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69b4222b08148191a1473ac4c9170ad9",
+        "name": "VIXNODE",
+        "score": 0.16666666666666666
+      },
+      {
+        "id": "asdk_app_698f00654b98819194a4897cc32428dc",
+        "name": "VON POLL IMMOBILIEN",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_6a2176f9986c81919be11ac180f20fb6",
+        "name": "VakantieBoekie",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69d707a3ef44819185b10b3a43999244",
+        "name": "Yahoo!ショッピング",
+        "score": 0.1111111111111111
+      },
+      {
+        "id": "asdk_app_69d3a8a02238819182d504fcc71709c8",
+        "name": "Yepy",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69dd66e263c48191bc366788af31855c",
+        "name": "Znajdź Przetargi",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69eb20ab4ce881918f88b8ee2c224350",
+        "name": "durchblicker.at",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69dcfce78a7481918afc2031c3d68b52",
+        "name": "eCommerce Studio - CBE 파트너",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_696e08d3a6148191a6638ff63e13497d",
+        "name": "freee確定申告",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69d63024d71c8191ba3666eb462f994b",
+        "name": "iAhorro Hipotecas",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69c3bff6839c8191b7b831e3d64f3291",
+        "name": "lesfurets",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69de04cf0cbc81918df1789d76a8752e",
+        "name": "pagesjaunes",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69674cd2af6c81918b87b40c034b5cb5",
+        "name": "エネチェンジ Home 電気・ガス比較",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69eede3e8cb08191bf0ac6c56b29b4a3",
+        "name": "ギフトコンシェルジュ by 八代目儀兵衛",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_69d5e35e1edc8191a2df471169a0164f",
+        "name": "神戸レタス",
+        "score": 0
+      },
+      {
+        "id": "asdk_app_697afa0b0bd48191ab981a6d24c05f4b",
+        "name": "롯데백화점",
+        "score": 0
+      }
+    ]
+  },
+  "passed": true
+}
