@@ -6,5 +6,4 @@ These materials are included only to identify and navigate the corresponding pro
 
 The MIT License in this repository applies to the original page code and project documentation. It does not grant rights to third-party trademarks, logos, product descriptions, or directory data.
 
-The application catalog is a point-in-time snapshot generated on June 8, 2026 and may become outdated.
-
+The application catalog is a point-in-time directory and may become outdated as products change.
