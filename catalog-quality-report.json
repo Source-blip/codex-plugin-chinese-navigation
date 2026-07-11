@@ -1,23 +1,26 @@
 {
-  "generatedAt": "2026-06-10",
-  "itemCount": 1687,
-  "auditRowCount": 1687,
+  "generatedAt": "2026-07-11",
+  "itemCount": 1699,
+  "auditRowCount": 1699,
   "stats": {
-    "total": 1687,
-    "installed": 14,
-    "installable": 168,
+    "total": 1699,
+    "installed": 19,
+    "installable": 175,
+    "configured": 11,
+    "cached": 8,
+    "updatedPlugins": 25,
     "apps": 1505,
     "appUniqueIds": 1505,
-    "officialIcons": 1434,
-    "missingIcons": 253,
-    "displayIcons": 1687,
-    "chineseDescriptions": 1687,
-    "translatedNames": 1687,
-    "detailedDescriptions": 1687,
-    "auditedItems": 1687,
+    "officialIcons": 1445,
+    "missingIcons": 254,
+    "displayIcons": 1699,
+    "chineseDescriptions": 1699,
+    "translatedNames": 1699,
+    "detailedDescriptions": 1699,
+    "auditedItems": 1699,
     "drafts": 4,
     "duplicateNameEntries": 15,
-    "qualityVersion": "2026-06-10-detailed-review"
+    "qualityVersion": "2026-07-11-current-plugin-snapshot"
   },
   "checks": {
     "pageScriptParses": true,
@@ -29,94 +32,96 @@
     "allNamesChinese": true,
     "allDescriptionsDetailed": true,
     "officialAndPlaceholderCountsAddUp": true,
-    "pageHasInternalJump": true
+    "pluginStatusCountsAddUp": true,
+    "pageHasInternalJump": true,
+    "pageHasUpdateControls": true
   },
   "failures": [],
   "missingAuditRows": [],
   "auditFailures": [],
   "sample": [
     {
-      "id": "browser",
-      "name": "Browser",
-      "chineseName": "内置浏览器控制",
-      "description": "内置浏览器控制 是一个偏向浏览器控制的工具。 大白话说，它可以理解成“浏览器控制”：主要帮你打开网页、点击页面、填写表单、截图和检查本地网页效果。它适合在需要让 Codex 在内置浏览器里看页面、测网页或帮你操作网页的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
+      "id": "plugin-actively",
+      "name": "Actively",
+      "chineseName": "Actively｜销售客户",
+      "description": "Actively｜销售客户 是一个偏向销售客户的工具。 大白话说，它可以理解成“销售客户”：主要帮你查客户、看线索、整理联系人和判断哪些商机值得优先跟进。它适合在找客户、补全公司资料、查看商机或安排销售跟进的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
       "iconStatus": "插件官方图标"
     },
     {
-      "id": "plugin-remotion",
-      "name": "Remotion",
-      "chineseName": "Remotion｜语音音频",
-      "description": "Remotion｜语音音频 是一个偏向语音音频的工具。 大白话说，它可以理解成“语音音频”：主要帮你把文字、声音或音频内容变得更容易收听和处理。它适合在想听内容、处理语音，或者把声音相关材料整理清楚的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
+      "id": "plugin-quickbooks",
+      "name": "QuickBooks",
+      "chineseName": "QuickBooks｜语音音频",
+      "description": "QuickBooks｜语音音频 是一个偏向语音音频的工具。 大白话说，它可以理解成“语音音频”：主要帮你把文字、声音或音频内容变得更容易收听和处理。它适合在想听内容、处理语音，或者把声音相关材料整理清楚的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
       "iconStatus": "插件官方图标"
     },
     {
-      "id": "app-asdk_app_696a80064378819184c212f6244021ec",
-      "name": "Almanac by PassBy",
-      "chineseName": "Almanac by PassBy｜购物助手",
-      "description": "Almanac by PassBy｜购物助手 是一个偏向购物助手的工具。 大白话说，它可以理解成“购物助手”：主要帮你查商品、看选项、比较价格或继续完成购买前的准备。它适合在找商品、比价格、看优惠、查库存或做购买前的判断的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
+      "id": "app-asdk_app_69ee6d8d45ac81919d5666c8295e1bb5",
+      "name": "Albsig",
+      "chineseName": "Albsig｜金融助手",
+      "description": "Albsig｜金融助手 是一个偏向金融助手的工具。 大白话说，它可以理解成“金融助手”：主要帮你处理这类场景里的常见问题，把入口、说明和下一步集中到一个地方。它适合在要看钱相关的数据、费用、风险或不同金融方案的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
       "iconStatus": "按应用 ID 获取的官方图标"
     },
     {
-      "id": "app-asdk_app_69d48aaed0088191a26c17e4af244597",
-      "name": "Buildfire",
-      "chineseName": "Buildfire｜内容生成",
-      "description": "Buildfire｜内容生成 是一个偏向内容生成的工具。 大白话说，它可以理解成“内容生成”：主要帮你根据你的要求生成内容、整理素材或搭建初稿。它适合在要查公司信息、看市场信号、做业务判断或准备商业材料的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
+      "id": "app-asdk_app_695bfc98071c8191bac7bc479aa27de7",
+      "name": "Box",
+      "chineseName": "Box｜商业信息助手",
+      "description": "Box｜商业信息助手 是一个偏向商业信息助手的工具。 大白话说，它可以理解成“商业信息助手”：主要帮你处理这类场景里的常见问题，把入口、说明和下一步集中到一个地方。它适合在要查公司信息、看市场信号、做业务判断或准备商业材料的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
+      "iconStatus": "按应用 ID 获取的官方图标"
+    },
+    {
+      "id": "app-asdk_app_69566ff97a508191bff1adc91d6d4ccf",
+      "name": "Craime",
+      "chineseName": "Craime｜搜索查询",
+      "description": "Craime｜搜索查询 是一个偏向搜索查询的工具。 大白话说，它可以理解成“搜索查询”：主要帮你按你的问题去查找相关信息，并把结果更快定位出来。它适合在要学习新东西、找课程、练题或整理知识的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
       "iconStatus": "官方图标未公开，已使用分类占位图标"
     },
     {
-      "id": "app-asdk_app_698abfa9059c819197609413f9ebffa8",
-      "name": "DANA",
-      "chineseName": "DANA｜购物助手",
-      "description": "DANA｜购物助手 是一个偏向购物助手的工具。 大白话说，它可以理解成“购物助手”：主要帮你查商品、看选项、比较价格或继续完成购买前的准备。它适合在找商品、比价格、看优惠、查库存或做购买前的判断的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
-      "iconStatus": "官方图标未公开，已使用分类占位图标"
-    },
-    {
-      "id": "app-asdk_app_69d61a063cac8191a0694067973607e1",
-      "name": "Formester",
-      "chineseName": "Formester｜数据分析",
-      "description": "Formester｜数据分析 是一个偏向数据分析的工具。 大白话说，它可以理解成“数据分析”：主要帮你查询数据、提炼重点，并帮你看出里面有用的信息。它适合在要省时间、整理内容、做表格、生成文档或自动化杂活的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
-      "iconStatus": "官方图标未公开，已使用分类占位图标"
-    },
-    {
-      "id": "app-connector_6923e677f37c8191845e4e0b658dd718",
-      "name": "Jam",
-      "chineseName": "Jam｜开发工具",
-      "description": "Jam｜开发工具 是一个偏向开发工具的工具。 大白话说，它可以理解成“开发工具”：主要帮你查技术资料、定位开发任务、整理接口信息或辅助搭建项目。它适合在做开发、查接口、看代码、搭网站或调试自动化流程的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
+      "id": "app-asdk_app_699616c736a481918ea7ea630735233d",
+      "name": "Flameco Group",
+      "chineseName": "Flameco Group｜搜索查询",
+      "description": "Flameco Group｜搜索查询 是一个偏向搜索查询的工具。 大白话说，它可以理解成“搜索查询”：主要帮你按你的问题去查找相关信息，并把结果更快定位出来。它适合在要查公司信息、看市场信号、做业务判断或准备商业材料的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
       "iconStatus": "按应用 ID 获取的官方图标"
     },
     {
-      "id": "app-asdk_app_6a0371c3b9b48191bea57437f57b7086",
-      "name": "Mckenzie Adams Debt Relief",
-      "chineseName": "Mckenzie Adams Debt Relief｜商业信息助手",
-      "description": "Mckenzie Adams Debt Relief｜商业信息助手 是一个偏向商业信息助手的工具。 大白话说，它可以理解成“商业信息助手”：主要帮你处理这类场景里的常见问题，把入口、说明和下一步集中到一个地方。它适合在要查公司信息、看市场信号、做业务判断或准备商业材料的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
+      "id": "app-asdk_app_693b20fccbac8191bdc178bb493de3e5",
+      "name": "Intuit Mailchimp",
+      "chineseName": "Intuit Mailchimp｜邮件助手",
+      "description": "Intuit Mailchimp｜邮件助手 是一个偏向邮件助手的工具。 大白话说，它可以理解成“邮件助手”：主要帮你根据你的要求生成内容、整理素材或搭建初稿。它适合在查邮件、整理收件箱、找上下文或准备回复的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
       "iconStatus": "按应用 ID 获取的官方图标"
     },
     {
-      "id": "app-asdk_app_69c59dc87d808191b78cda59c973dffa",
-      "name": "Ovios Home",
-      "chineseName": "Ovios Home｜购物助手",
-      "description": "Ovios Home｜购物助手 是一个偏向购物助手的工具。 大白话说，它可以理解成“购物助手”：主要帮你查商品、看选项、比较价格或继续完成购买前的准备。它适合在找商品、比价格、看优惠、查库存或做购买前的判断的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
+      "id": "app-asdk_app_69c6cca3418c8191b1d5f0c56c2174e8",
+      "name": "Map Maker",
+      "chineseName": "Map Maker｜内容生成",
+      "description": "Map Maker｜内容生成 是一个偏向内容生成的工具。 大白话说，它可以理解成“内容生成”：主要帮你根据你的要求生成内容、整理素材或搭建初稿。它适合在要查路线、订行程、比较酒店或规划旅行的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
       "iconStatus": "按应用 ID 获取的官方图标"
     },
     {
-      "id": "app-asdk_app_696cfe921f98819195e54b7c46666164",
-      "name": "Remedy Legal",
-      "chineseName": "Remedy Legal｜搜索查询",
-      "description": "Remedy Legal｜搜索查询 是一个偏向搜索查询的工具。 大白话说，它可以理解成“搜索查询”：主要帮你按你的问题去查找相关信息，并把结果更快定位出来。它适合在要省时间、整理内容、做表格、生成文档或自动化杂活的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
+      "id": "app-asdk_app_698ffb7100b08191999fa03af09b1378",
+      "name": "OptionsCalc",
+      "chineseName": "OptionsCalc｜金融助手",
+      "description": "OptionsCalc｜金融助手 是一个偏向金融助手的工具。 大白话说，它可以理解成“金融助手”：主要帮你处理这类场景里的常见问题，把入口、说明和下一步集中到一个地方。它适合在要看钱相关的数据、费用、风险或不同金融方案的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
       "iconStatus": "按应用 ID 获取的官方图标"
     },
     {
-      "id": "app-asdk_app_69de7814144081919b4ce55aebeb509c",
-      "name": "Specialized Bicycle Components",
-      "chineseName": "Specialized Bicycle Components｜生活服务",
-      "description": "Specialized Bicycle Components｜生活服务 是一个偏向生活服务的工具。 大白话说，它可以理解成“生活服务”：主要帮你按你的问题去查找相关信息，并把结果更快定位出来。它适合在要处理生活安排、个人兴趣、健康习惯或日常查询的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
+      "id": "app-asdk_app_69dd38561eb08191b83bfe2f40bbcdfd",
+      "name": "RealOpen",
+      "chineseName": "RealOpen｜金融助手",
+      "description": "RealOpen｜金融助手 是一个偏向金融助手的工具。 大白话说，它可以理解成“金融助手”：主要帮你处理这类场景里的常见问题，把入口、说明和下一步集中到一个地方。它适合在要看钱相关的数据、费用、风险或不同金融方案的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
       "iconStatus": "按应用 ID 获取的官方图标"
     },
     {
-      "id": "app-asdk_app_6938d5bb48248191b1b755e4b79b4cda",
-      "name": "Uber",
-      "chineseName": "Uber｜计算器",
-      "description": "Uber｜计算器 是一个偏向计算器的工具。 大白话说，它可以理解成“计算器”：主要帮你处理这类场景里的常见问题，把入口、说明和下一步集中到一个地方。它适合在找商品、比价格、看优惠、查库存或做购买前的判断的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
+      "id": "app-asdk_app_69fcbb4ebdfc8191b623b0885d5fa7fd",
+      "name": "SocialHub",
+      "chineseName": "SocialHub｜效率办公助手",
+      "description": "SocialHub｜效率办公助手 是一个偏向效率办公助手的工具。 大白话说，它可以理解成“效率办公助手”：主要帮你处理这类场景里的常见问题，把入口、说明和下一步集中到一个地方。它适合在要省时间、整理内容、做表格、生成文档或自动化杂活的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
+      "iconStatus": "按应用 ID 获取的官方图标"
+    },
+    {
+      "id": "app-asdk_app_699eb35b0f808191b597c5171627de5d",
+      "name": "Truffle Journal",
+      "chineseName": "Truffle Journal｜搜索查询",
+      "description": "Truffle Journal｜搜索查询 是一个偏向搜索查询的工具。 大白话说，它可以理解成“搜索查询”：主要帮你按你的问题去查找相关信息，并把结果更快定位出来。它适合在要学习新东西、找课程、练题或整理知识的时候先点进去看看，少靠猜英文名字来找工具。实际能不能直接操作、是否需要登录或授权，要以对应官方应用页面为准。",
       "iconStatus": "按应用 ID 获取的官方图标"
     }
   ],
