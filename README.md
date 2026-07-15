@@ -1,8 +1,8 @@
-# Codex 插件与应用中文导航
+# Codex 插件与应用中英文导航
 
-一个面向中文用户的 Codex 插件、ChatGPT 应用和连接器搜索导航。打开网页后，可以用日常说法直接查找合适的工具，不需要记住准确的英文名称。
+一个面向中文用户、Codex 新手和全球用户的 Codex 插件、ChatGPT 应用与连接器搜索导航。可以用中文日常说法、英文名称或缩写直接查找合适的工具。
 
-[立即在线使用](https://source-blip.github.io/codex-plugin-chinese-navigation/)
+[Sites 公共版](https://codex-plugin-chinese-navigation.choice-chub-8009.chatgpt.site/) · [GitHub Pages 备用版](https://source-blip.github.io/codex-plugin-chinese-navigation/)
 
 ![Codex 插件与应用中文导航界面](assets/codex-plugin-navigation-preview.png)
 
@@ -10,6 +10,7 @@
 
 - **中文搜索**：支持“做表格”“做 PPT”“查邮件”“控制电脑”“英伟达”等日常说法。
 - **英文和缩写搜索**：支持插件英文名、产品名、缩写和常用关键词。
+- **中英文界面切换**：顶部可一键切换中文和 English，卡片、介绍、状态、分类与详情会一起切换。
 - **分类导航**：按办公、设计、开发、销售、金融、旅行、购物等用途快速筛选。
 - **状态筛选**：把“当前会话可用”“配置已启用”“仅缓存”和“可安装”分开显示，避免把已经下载、已配置和当前能直接使用混为一谈。
 - **快捷筛选**：一键查看“当前会话可用”“配置已启用”“已下载未启用”和“最近更新”，并显示当前筛选数量。
@@ -53,7 +54,8 @@
 
 访问：
 
-<https://source-blip.github.io/codex-plugin-chinese-navigation/>
+- Sites 公共版：<https://codex-plugin-chinese-navigation.choice-chub-8009.chatgpt.site/>
+- GitHub Pages 备用版：<https://source-blip.github.io/codex-plugin-chinese-navigation/>
 
 ### 离线使用
 
