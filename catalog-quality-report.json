@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11",
+  "generatedAt": "2026-07-15",
   "itemCount": 1699,
   "auditRowCount": 1699,
   "stats": {
@@ -8,7 +8,7 @@
     "installable": 175,
     "configured": 11,
     "cached": 8,
-    "updatedPlugins": 25,
+    "updatedPlugins": 5,
     "apps": 1505,
     "appUniqueIds": 1505,
     "officialIcons": 1445,
@@ -20,7 +20,8 @@
     "auditedItems": 1699,
     "drafts": 4,
     "duplicateNameEntries": 15,
-    "qualityVersion": "2026-07-11-current-plugin-snapshot"
+    "qualityVersion": "2026-07-15-current-plugin-snapshot",
+    "sessionAvailable": 17
   },
   "checks": {
     "pageScriptParses": true,
@@ -33,8 +34,13 @@
     "allDescriptionsDetailed": true,
     "officialAndPlaceholderCountsAddUp": true,
     "pluginStatusCountsAddUp": true,
+    "sessionAvailableCountMatches": true,
+    "sessionAvailablePluginsAreDownloaded": true,
     "pageHasInternalJump": true,
-    "pageHasUpdateControls": true
+    "pageHasUpdateControls": true,
+    "pageHasQuickFilters": true,
+    "pageHasAccessibleFilters": true,
+    "pageHasMobileDetail": true
   },
   "failures": [],
   "missingAuditRows": [],

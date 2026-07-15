@@ -1,13 +1,44 @@
 {
-  "generatedAt": "2026-07-11",
-  "marketplaceLastUpdated": "2026-07-11",
+  "generatedAt": "2026-07-15",
+  "sourceCheckedAt": "2026-07-15",
   "cachedPluginCount": 19,
   "marketplacePluginCount": 186,
   "catalogPluginCount": 194,
   "configuredPluginCount": 11,
   "cachedOnlyPluginCount": 8,
+  "sessionAvailablePluginCount": 17,
   "installablePluginCount": 175,
-  "updatedPluginCount": 25,
+  "updatedPluginCount": 5,
+  "addedPluginKeys": [],
+  "removedPluginKeys": [],
+  "versionChanges": [
+    {
+      "name": "browser",
+      "old": "26.707.31428",
+      "new": "26.707.72221"
+    },
+    {
+      "name": "chrome",
+      "old": "26.707.31428",
+      "new": "26.707.72221"
+    },
+    {
+      "name": "computer-use",
+      "old": "26.707.31428",
+      "new": "26.707.72221"
+    },
+    {
+      "name": "gmail",
+      "old": "0.1.3",
+      "new": "0.1.5"
+    },
+    {
+      "name": "google-drive",
+      "old": "0.1.7",
+      "new": "0.1.8"
+    }
+  ],
+  "statusChanges": [],
   "excludedCachedAppManifests": [
     "app-68f1afc5a6008191a701eaaab428816c",
     "app-69272cb413a081919685ec3c88d1744e",
@@ -15,7 +46,6 @@
     "app-6948b1ccbef881919744614875f97c3f",
     "app-6948b485f5bc8191adb4df13f369cec7"
   ],
-  "removedObsoletePlugin": null,
   "catalogPluginKeys": [
     "actively@openai-curated",
     "aiera@openai-curated",
@@ -91,9 +121,9 @@
     "game-studio@openai-curated",
     "github@openai-curated-remote",
     "glean@openai-curated",
-    "gmail@openai-curated",
+    "gmail@openai-curated-remote",
     "google-calendar@openai-curated",
-    "google-drive@openai-curated",
+    "google-drive@openai-curated-remote",
     "govtribe@openai-curated",
     "granola@openai-curated",
     "happenstance@openai-curated",
@@ -212,31 +242,30 @@
     "zoominfo@openai-curated",
     "zotero@openai-curated"
   ],
+  "sessionAvailablePluginKeys": [
+    "browser@openai-bundled",
+    "chrome@openai-bundled",
+    "computer-use@openai-bundled",
+    "documents@openai-primary-runtime",
+    "github@openai-curated-remote",
+    "gmail@openai-curated-remote",
+    "google-drive@openai-curated-remote",
+    "hyperframes@openai-curated-remote",
+    "nvidia@openai-curated-remote",
+    "pdf@openai-primary-runtime",
+    "presentations@openai-primary-runtime",
+    "product-design@openai-curated-remote",
+    "sales@openai-curated-remote",
+    "sites@openai-bundled",
+    "spreadsheets@openai-primary-runtime",
+    "template-creator@openai-primary-runtime",
+    "visualize@openai-bundled"
+  ],
   "updatedPluginKeys": [
-    "boltz-api-cli",
     "browser",
     "chrome",
-    "chronograph-gp",
-    "chronograph-lp",
     "computer-use",
-    "digitalocean",
-    "documents",
-    "github",
-    "glean",
     "gmail",
-    "google-drive",
-    "hex",
-    "openai-ads-conversions",
-    "openai-developers",
-    "openai-templates",
-    "pdf",
-    "presentations",
-    "product-design",
-    "replayio",
-    "sales",
-    "sites",
-    "spreadsheets",
-    "template-creator",
-    "visualize"
+    "google-drive"
   ]
 }
