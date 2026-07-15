@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  background: #f4f5f8;
+  color: #181b24;
+  font-family: "Microsoft YaHei UI", "Microsoft YaHei", system-ui, sans-serif;
+}
+
+.fallback {
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+  gap: 12px;
+  padding: 24px;
+  text-align: center;
+}
+
+.fallback h1,
+.fallback p {
+  margin: 0;
+}
+
+.fallback a {
+  justify-self: center;
+  margin-top: 8px;
+  padding: 11px 18px;
+  border-radius: 10px;
+  background: #5548e7;
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+}

@@ -1,3 +1,13 @@
 work/
 outputs/
 design-qa.md
+node_modules/
+dist/
+.next/
+.vinext/
+.wrangler/
+public/catalog.html
+public/catalog-asset-*
+public/sites-assets-report.json
+public/og.png
+public/favicon.png
